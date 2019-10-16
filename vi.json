@@ -766,5 +766,6 @@
     "access denied": "Không có quyền truy cập",
     "After finish registering, the user needs to create a CV and update the personal information. With the available templates, the user can freely edit CV according to their style.": "Sau bước đăng ký tài khoản, người dùng cần tạo CV và cập nhật thông tin cá nhân. Bạn có thể tùy ý sáng tạo CV theo phong cách cá nhân dựa trên những mẫu có sẵn.",
     "Terms of Service": "Điều khoản sử dụng dịch vụ",
-    ":label cannot be longer than :max characters": "dsgsd gsdg sdg sdg"
+    ":label cannot be longer than :max characters": "dsgsd gsdg sdg sdg",
+    ".No": "sdgs dgds"
 }
