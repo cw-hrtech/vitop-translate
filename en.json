@@ -1,5 +1,5 @@
 {
-    "Address": "Address - 1",
+    "Address": "Address",
     "Protected data": "Protected data",
     "Email": "Email",
     "Phone": "Phone",
@@ -826,7 +826,7 @@
     "Resume detail": "Resume detail",
     "Detail CV": "Detail CV",
     "Recruitment process detail": "Recruitment process detail",
-    "Recruitment edit process": "Recruitment edit process",
+    "Recruitment edit process": "Edit recruitment process",
     "Total companies: {total}": "Total companies: {total}",
     "Are you sure want to reject this job of company?": "Are you sure want to reject this job of company?",
     "Reason(*)": "Reason(*)",
@@ -983,7 +983,10 @@
     "Key": "Key",
     "Edit Static Page": "Edit Static Page",
     "Create": "Create",
+    "Static Page": "Static Page",
     "Current income": "Current income",
+    "Please select current income": "Please select current income",
     "Currently we are developing this function.": "Currently we are developing this function",
-    "Welcome to the recruiting site VITOP CAREER. We are providing the recruiting service packages for the companies, help them connect with the potential candidates in the Technology Industry. Let's experiencing now.": "Welcome to the recruiting site VITOP CAREER.\nWe are providing the recruiting service packages for the companies, help them connect with the potential candidates in the Technology Industry.\nLet's experiencing now."
+    "Welcome to the recruiting site VITOP CAREER. We are providing the recruiting service packages for the companies, help them connect with the potential candidates in the Technology Industry. Let's experiencing now.": "Welcome to the recruiting site VITOP CAREER.\nWe are providing the recruiting service packages for the companies, help them connect with the potential candidates in the Technology Industry.\nLet's experiencing now.",
+    "Apply success": "Apply success"
 }
