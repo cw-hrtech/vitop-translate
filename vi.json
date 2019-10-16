@@ -939,8 +939,9 @@
     "Hot Job": "Công việc Hot",
     "Hot activation jobs": "Kích hoạt công việc HOT",
     "The resume does not exists": "Hồ sơ ứng viên không tồn tại",
-    "New message from the candidate :candidate": "Tin nhắn mới từ Ứng viên: Ứng Viên",
+    "New message from the candidate :candidate": "Tin nhắn mới từ Ứng viên: candidate",
     "New message: :title": "Tin nhắn mới: :title",
     "New messages from employers :company_name": "Tin nhắn mới từ Doanh nghiệp: company_name",
-    "Standard CV template for the top 5 hottest jobs": "Những mẫu CV tiêu chuẩn cho top 5 công việc hot nhất"
+    "Standard CV template for the top 5 hottest jobs": "Những mẫu CV tiêu chuẩn cho top 5 công việc hot nhất",
+    "Please check and verify your account": "Vui lòng kiểm tra thông tin và xác nhận tài khoản"
 }
