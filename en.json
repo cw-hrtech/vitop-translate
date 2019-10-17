@@ -254,7 +254,7 @@
     "Close": "Close",
     "Your package": "Package",
     "Package name": "Package name",
-    "Max mail": "Scount",
+    "Max mail": "Scout",
     "Mail used": "E-mail is already used",
     "Please input message": "Please input message",
     "Applicant information blocked": "Applicant information blocked",
@@ -988,5 +988,8 @@
     "Please select current income": "Please select current income",
     "Currently we are developing this function.": "Currently we are developing this function",
     "Welcome to the recruiting site VITOP CAREER. We are providing the recruiting service packages for the companies, help them connect with the potential candidates in the Technology Industry. Let's experiencing now.": "Welcome to the recruiting site VITOP CAREER.\nWe are providing the recruiting service packages for the companies, help them connect with the potential candidates in the Technology Industry.\nLet's experiencing now.",
-    "Apply success": "Apply success"
+    "We have well received your Company Information. This information is waiting for verification from VITOP-Career admin. We will send a confirmation email to you as soon as possible. Thank you for using our service!": "We have well received your Company Information. This information is waiting for verification from VITOP-Career admin. We will send a confirmation email to you as soon as possible. Thank you for using our service!",
+    "Please Input": "Please Input",
+    "Apply success": "Apply success",
+    "Price does not include 10% VAT": "Price does not include 10% VAT"
 }
