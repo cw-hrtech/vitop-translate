@@ -373,7 +373,7 @@
     "expiration date": "expiring date",
     "quantity for recruitment": "Recruitment quantity",
     "people": "people",
-    "age": "age",
+    "age": "Age",
     "this page has found a better job": "This page has found a better job",
     "we’re sorry, the page you were looking for doesn't exist.": "We’re sorry, the page you were looking for doesn't exist.",
     "double check your url.": "Double check your URL.",
@@ -841,5 +841,6 @@
     "confirm password": "Confirm Password",
     "3d building, no. 3, duy tan street, dich vong hau ward, cau giay district, hanoi": "1st Floor, 3D Building, No. 3, Duy Tan Street, Cau Giay District, Hanoi",
     "no information. please update your information": "No information.",
-    "education rank": "Rank"
+    "education rank": "Rank",
+    "news": "News"
 }

@@ -27,7 +27,7 @@
     "add role": "Tạo nhóm quyền truy cập",
     "add success plan for this company": "Tạo thành công gói dịch vụ cho công ty",
     "address": "Địa chỉ",
-    "age": "tuổi",
+    "age": "Tuổi",
     "alert": "Thông tin khác",
     "all jobs": "Tất Cả Việc Làm",
     "all locations": "Tất cả địa điểm",
@@ -837,5 +837,6 @@
     "make private": "Không công khai",
     "side": "bên",
     "the information will only be revealed after the agreement from 3 parties": "Thông tin chỉ được chia sẻ khi 3 bên cùng đồng ý",
-    "profiles": "hồ sơ"
+    "profiles": "hồ sơ",
+    "news": "Tin tức"
 }
