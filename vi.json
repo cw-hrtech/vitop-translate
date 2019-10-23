@@ -186,7 +186,7 @@
     "please select interview type": "Vui lòng chọn loại phỏng vấn",
     "please select language": "Vui lòng chọn ngôn ngữ",
     "please select money unit": "Vui lòng chọn đơn vị tiền",
-    "please select option": "Please select option",
+    "please select option": "Vui lòng chọn tùy chọn",
     "please select skill": "Vui lòng chọn kỹ năng",
     "please select the number of years of experience": "Vui lòng chọn số năm kinh nghiệm",
     "please select the role": "Vui lòng chọn quyền",
@@ -812,7 +812,7 @@
     "active in it industry": "Hoạt động trong lĩnh vực IT",
     "3d building, no. 3, duy tan street, dich vong hau ward, cau giay district, hanoi": "Tầng 1, Tòa nhà 3D, Số 3 đường Duy Tân, quận Cầu Giấy, Hà Nội",
     "companies": "công ty",
-    "confirm password": "Xác nhận Password",
+    "confirm password": "Xác nhận mật khẩu",
     "indicate": "Biểu thị",
     "make private": "Không công khai",
     "side": "Bên",
@@ -856,5 +856,6 @@
     "to optimize the process of finding the candidate's profile, we integrated a \"search for resume\" function with selective data for the company to have an overview of the candidate at the administration's page.": "Để thuận tiện cho việc tìm kiếm thông tin ứng viên, chúng tôi đã tích hợp tính năng tìm kiếm thông tin ứng viên với các dữ liệu được chọn lọc để doanh nghiệp có thể có được cái nhìn tổng quan nhất ngay tại trang quản trị của doanh nghiệp",
     "from": "Từ",
     "rank": "Cấp bậc",
-    "duration": "Thời gian sử dụng"
+    "duration": "Thời gian sử dụng",
+    "publishing settings": "Thiết lập công khai"
 }

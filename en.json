@@ -856,5 +856,6 @@
     "to optimize the process of finding the candidate's profile, we integrated a \"search for resume\" function with selective data for the company to have an overview of the candidate at the administration's page.": "To optimize the process of finding the candidate's profile, we integrated a \"search for resume\" function with selective data for the company to have an overview of the candidate at the administration's page.",
     "from": "From",
     "rank": "Rank",
-    "duration": "Duration"
+    "duration": "Duration",
+    "publishing settings": "Publishing settings"
 }
