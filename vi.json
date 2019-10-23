@@ -686,7 +686,7 @@
     "daily conversation": "Giao tiếp hằng ngày",
     "suggest cv": "CV được đề xuất",
     "design your own professional cv with top cv templates": "Thiết kế CV chuyên nghiệp của riêng bạn với các mẫu CV hàng đầu",
-    "docter": "Bác sĩ",
+    "docter": "Tiến sĩ",
     "does not exist the service pack": "Không tồn tại gói dịch vụ",
     "double check your url.": "Kiểm tra lại URL của bạn",
     "edit fails": "Chỉnh sửa thất bại",
@@ -749,7 +749,7 @@
     "less than 10 employees": "Ít hơn 10 nhân viên",
     "turn on find job": "Bật Tìm việc",
     "make a good impression of yourself with the employer": "Tạo ấn tượng tốt về bản thân với Nhà tuyển dụng",
-    "master": "Bậc thày",
+    "master": "Chuyên gia",
     "max hot job": "công việc NỔI BẬT tối đa",
     "message send box": "Hộp thư đã gửi",
     "message trash can": "Hộp thư rác",
@@ -857,5 +857,6 @@
     "from": "Từ",
     "rank": "Cấp bậc",
     "duration": "Thời gian sử dụng",
-    "publishing settings": "Thiết lập công khai"
+    "publishing settings": "Thiết lập công khai",
+    "college": "Cao đẳng"
 }
