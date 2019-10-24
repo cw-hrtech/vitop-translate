@@ -858,5 +858,8 @@
     "rank": "Rank",
     "duration": "Duration",
     "publishing settings": "Publishing settings",
-    "college": "College"
+    "college": "College",
+    "current password": "Current password",
+    "new password": "New password",
+    "confirm new password": "Confirm new password"
 }

@@ -858,5 +858,8 @@
     "rank": "Cấp bậc",
     "duration": "Thời gian sử dụng",
     "publishing settings": "Thiết lập công khai",
-    "college": "Cao đẳng"
+    "college": "Cao đẳng",
+    "confirm new password": "Nhập lại mật khẩu mới",
+    "current password": "Mật khẩu hiện tại",
+    "new password": "Mật khẩu mới"
 }
