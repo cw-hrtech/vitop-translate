@@ -395,7 +395,7 @@
     "note about applicant": "Nhận xét về Ứng viên",
     "number scale": "Quy mô",
     "people": "Người",
-    "period": "Trước",
+    "period": "Giai đoạn",
     "phone number must be between {min} and {max} number": "Vui lòng nhập số điện thoại trong khoảng {min} và {max}",
     "please enter the number": "Vui lòng nhập số",
     "please enter your email address below and we will send you information to change your password.": "Vui lòng nhập địa chỉ E-mail của bạn vào bên dưới. Chúng tôi sẽ gửi bạn thông tin mật khẩu thay đổi.",
@@ -823,7 +823,7 @@
     "let's experiencing now.": "Hãy cùng trải nghiệm ngay.",
     "select date": "Chọn ngày",
     "your name": "Tên của bạn",
-    "the work of creating cv will no longer become complicated according to a top cv making tool from vitop career. with the beautiful cv templates and smart design, this tool will help you become more appeal to the employers.": "Công việc tạo CV sẽ trở nên dễ dàng hơn bao giờ hết bởi công cụ tạo cv chuyên nghiệp từ Vitop Career. Với các mẫu CV đẹp với thiết kế thông minh, công cụ này sẽ giúp cv của bạn trở nên hấp dẫn hơn trong mắt các nhà tuyển dụng.",
+    "the work of creating cv will no longer become complicated according to a top cv making tool from vitop career. with the beautiful cv templates and smart design, this tool will help you become more appeal to the employers.": "Công việc tạo CV sẽ trở nên dễ dàng hơn bao giờ hết bởi công cụ tạo CV chuyên nghiệp từ Vitop Career. Với các mẫu CV đẹp với thiết kế thông minh, công cụ này sẽ giúp CV của bạn trở nên hấp dẫn hơn trong mắt các nhà tuyển dụng.",
     "price": "Giá",
     "when you register for vitop career, each company will have a concern about which service package they should choose in our system. so, if you have any questions or functions that require our support, please contact us at support@vitop.vn. our staffs are always willing to support you to bring the best experience to the customers when using vitop career.": "Trong quá trình đăng kí vào website Vitop Career, chắc chắn mỗi doanh nghiệp đều có những đắn đo trong việc lựa chọn gói dịch vụ để sử dụng tại hệ thống của chúng tôi. Vì vậy, nếu có bất cứ câu hỏi nào cần được giải đáp hoặc chức năng cần được hỗ trợ, hãy liên hệ ngay với chúng tôi qua email: support@vitop.vn.\n\nChúng tôi luôn luôn lắng nghe và hỗ trợ tận tình để mang lại trải nghiệm tốt nhất cho khách hàng khi sử dụng trang tuyển dụng Vitop Career.",
     "post job": "Đăng việc làm",
@@ -861,5 +861,8 @@
     "college": "Cao đẳng",
     "confirm new password": "Nhập lại mật khẩu mới",
     "current password": "Mật khẩu hiện tại",
-    "new password": "Mật khẩu mới"
+    "new password": "Mật khẩu mới",
+    "euro": "Euro",
+    "usd": "USD",
+    "vnd": "VND"
 }
