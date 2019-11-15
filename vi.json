@@ -585,7 +585,7 @@
     "within one year": "Trong vòng một năm",
     "work location": "Trụ sở làm việc",
     "work style that i am interested in": "Phong cách làm việc mà tôi đang quan tâm",
-    "working conditions": "Yêu cầu công việc",
+    "working conditions": "Phúc lợi",
     "year": "năm",
     "year experience": "Số năm kinh nghiệm",
     "years": "năm",
@@ -876,10 +876,11 @@
     "followed": "Đã theo dõi",
     "do you really want to leave? you have unsaved changes!": "Bạn có thực sự muốn rời đi? Bạn có các thay đổi chưa lưu!",
     "ten thousand yen": "Triệu yên",
-    "up to": "đến",
+    "up to": "Đến",
     "online interview": "Phỏng vấn trực tuyến",
     "offline interview": "Phỏng vấn trực tiếp",
     "applicant login": "Ứng viên đăng nhập",
     "company login": "Nhà tuyển dụng đăng nhập",
-    "you will no longer receive notifications of this company?": "Bạn sẽ không nhận được thông tin nào từ doanh nghiệp này."
+    "you will no longer receive notifications of this company?": "Bạn sẽ không nhận được thông tin nào từ doanh nghiệp này.",
+    "experience": "Số năm kinh nghiệm"
 }

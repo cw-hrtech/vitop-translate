@@ -292,7 +292,7 @@
     "position name": "Position name",
     "job id": "Job Id",
     "job description": "Job Description",
-    "working conditions": "Working conditions",
+    "working conditions": "Benefits",
     "skills": "Skills",
     "quantity": "Quantity",
     "job rank": "Job rank",
@@ -881,5 +881,6 @@
     "up to": "Up to",
     "you will no longer receive notifications of this company?": "You will no longer receive notifications of this company.",
     "company login": "Employers login",
-    "applicant login": "Applicant login"
+    "applicant login": "Applicant login",
+    "experience": "Year of experience"
 }
