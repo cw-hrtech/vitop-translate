@@ -410,7 +410,7 @@
     "please input summary": "Vui lòng nhập thông tin tổng quát",
     "please select contract type": "Vui lòng nhập loại hợp đồng lao động",
     "please select job rank": "Vui lòng nhập vị trí tuyển dụng",
-    "please select level": "Vui lòng nhập mức độ",
+    "please select level": "Vui lòng nhập trình độ",
     "please select rank": "Vui lòng lựa chọn loại bằng cấp",
     "please update the password to complete the registration process": "Vui lòng cập nhật mật khẩu để hoàn thành quy trình đăng ký tài khoản.",
     "present": "Hiện tại",
@@ -882,5 +882,10 @@
     "applicant login": "Ứng viên đăng nhập",
     "company login": "Nhà tuyển dụng đăng nhập",
     "you will no longer receive notifications of this company?": "Bạn sẽ không nhận được thông tin nào từ doanh nghiệp này.",
-    "experience": "Số năm kinh nghiệm"
+    "experience": "Số năm kinh nghiệm",
+    "assessment success": "Đanh giá thành công",
+    "assessment resume": "Đánh giá CV",
+    "assessment": "Đanh giá",
+    "apply at": "Ứng tuyển:",
+    "like at": "Yêu thích:"
 }

@@ -661,7 +661,7 @@
     "{year} year and {month} month of actual work": "{year} year and {month} month of actual work",
     "{year} year and {month} months of actual work": "{year} year and {month} months of actual work",
     "{year} years and {month} month of actual work": "{year} years and {month} month of actual work",
-    "inactive account": "InActive Account",
+    "inactive account": "Inactive Account",
     "date deleted": "Date deleted",
     "this will permanently active account. continue?": "This will active account. Continue?",
     "active account success": "Active Account success",
@@ -882,5 +882,11 @@
     "you will no longer receive notifications of this company?": "You will no longer receive notifications of this company.",
     "company login": "Employers login",
     "applicant login": "Applicant login",
-    "experience": "Year of experience"
+    "experience": "Year of experience",
+    "assessment success": "Assessment success",
+    "assessment resume": "Assessment Resume",
+    "assessment": "Assessment",
+    "assessment review": "Assessment Review",
+    "like at": "Liked at:",
+    "apply at": "Applied at:"
 }
