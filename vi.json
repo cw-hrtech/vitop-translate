@@ -891,5 +891,17 @@
     "like at": "Yêu thích:",
     "total": "Tổng",
     "successfully assessed.": "Đánh giá thành công",
-    "you are referred from {name}": "you are referred from {name}"
+    "you are referred from {name}": "you are referred from {name}",
+    "fails": "Thất bại",
+    "filter": "Bộ lọc",
+    "gross salary is the total income of employees, including insurance premiums and taxes": "Tổng lương là tổng thu nhập của người lao động, bao gồm phí bảo hiểm và thuế",
+    "job expired": "Công việc đã hết hạn",
+    "not found": "Không tìm thấy",
+    "referral code not found.": "Không tìm thấy mã giới thiệu",
+    "referral link": "Link giới thiệu",
+    "salary from must be at most 10 characters": "Nhập tối đa 10 kí tự",
+    "salary up to must be at most 10 characters": "Nhập tối đa 10 kí tự",
+    "update fails": "Cập nhật thất bại",
+    "you have :total assessments": "Bạn có :total đánh giá",
+    "your package has expired or you have not selected yet.": "Gói của quý công ty đã hết hạn hoặc chưa chọn"
 }
