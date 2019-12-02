@@ -78,7 +78,7 @@
     "logout": "Logout",
     "do you want to logout?": "Do you want to logout?",
     "confirm": "Confirm",
-    "cancel": "Cancel",
+    "cancel": "Close",
     "products & services": "Products & Services",
     "contact": "Contact",
     "login": "Sign in",
@@ -903,5 +903,10 @@
     "referral code not found.": "Referral code not found.",
     "gross salary is the total income of employees, including insurance premiums and taxes": "Gross salary is the total income of employees, including insurance premiums and taxes",
     "referral link": "Referral link",
-    "you are referred from {name}": "you are referred from {name}"
+    "you are referred from {name}": "You are referred from {name}",
+    "recruitment job": "Recruitment List",
+    "job detail": "Job detail",
+    "follow list": "Follow list",
+    "plan": "Plan",
+    "new assessment": "New assessment"
 }

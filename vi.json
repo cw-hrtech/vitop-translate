@@ -70,7 +70,7 @@
     "business content 2": "Định hướng",
     "business content is required": "Vui lòng nhập nội dung kinh doanh",
     "notices": "Thông tin khác",
-    "cancel": "Hủy bỏ",
+    "cancel": "Đóng",
     "canceled!": "Đã hủy",
     "notifications": "Nhận thông báo qua E-mail",
     "change password": "Thay Đổi Mật Khẩu",
@@ -891,7 +891,7 @@
     "like at": "Yêu thích:",
     "total": "Tổng",
     "successfully assessed.": "Đánh giá thành công",
-    "you are referred from {name}": "you are referred from {name}",
+    "you are referred from {name}": "Bạn được giới thiệu từ {name}",
     "fails": "Thất bại",
     "filter": "Bộ lọc",
     "gross salary is the total income of employees, including insurance premiums and taxes": "Tổng lương là tổng thu nhập của người lao động, bao gồm phí bảo hiểm và thuế",
@@ -903,5 +903,9 @@
     "salary up to must be at most 10 characters": "Nhập tối đa 10 kí tự",
     "update fails": "Cập nhật thất bại",
     "you have :total assessments": "Bạn có :total đánh giá",
-    "your package has expired or you have not selected yet.": "Gói của quý công ty đã hết hạn hoặc chưa chọn"
+    "your package has expired or you have not selected yet.": "Gói của quý công ty đã hết hạn hoặc chưa chọn",
+    "recruitment job": "Lịch sử tuyển dụng",
+    "new assessment": "Đánh giá mới",
+    "job detail": "Chi tiết công việc",
+    "follow list": "Danh sách theo dõi"
 }
