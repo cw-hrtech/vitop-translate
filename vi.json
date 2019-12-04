@@ -900,5 +900,15 @@
     "notifications header": "Thông báo",
     "default": "{key}",
     "you have {key} assessment": "Bạn có {key} lượt đánh giá",
-    "you have {key} followers": "Bạn có {key} lượt theo dõi"
+    "you have {key} followers": "Bạn có {key} lượt theo dõi",
+    "new assessment": "Đánh giá mới",
+    "new follow": "Lượt theo dõi mới",
+    "log in": "Đăng nhập",
+    "new plan": "Gói dịch vụ đã được tạo",
+    "notification": "Thông báo",
+    "plan expired": "Gói dịch vụ hết hạn",
+    "reject job": "Job đã bị hủy",
+    "new job applicant": "Công việc mới",
+    "new job company": "Công việc đã được tạo thành công",
+    "recruitment job": "Lịch sử tuyển dụng"
 }

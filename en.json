@@ -900,5 +900,15 @@
     "notification list": "Notification List",
     "you have {key} assessment": "You have {key} assessment",
     "default": "{key}",
-    "you have {key} followers": "You have {key} followers"
+    "you have {key} followers": "You have {key} followers",
+    "notification": "Notifications",
+    "log in": "Sign in",
+    "new follow": "New follow",
+    "reject job": "Your job was cancelled",
+    "plan expired": "Service pack expires",
+    "new assessment": "New Assessment",
+    "new plan": "Your package was created",
+    "new job company": "Your job was successfully posted",
+    "new job applicant": "New Job",
+    "recruitment job": "Recruitment list"
 }
