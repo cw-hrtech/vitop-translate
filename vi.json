@@ -917,5 +917,8 @@
     "new job applicant": "Công việc mới",
     "new job company": "Công việc đã được đăng thành công",
     "plan expire": "Gói dịch vụ  hết hạn",
-    "notification": "Thông báo"
+    "notification": "Thông báo",
+    "default": "{key}",
+    "you have {key} assessment": "Bạn có {key} lượt đánh giá",
+    "you have {key} followers": "Bạn có {key} lượt theo dõi"
 }

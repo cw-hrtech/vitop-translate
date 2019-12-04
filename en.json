@@ -918,5 +918,8 @@
     "new job applicant": "New job",
     "new job company": "Your job was successfully posted",
     "plan expire": "Service pack expires",
-    "notification": "Notifications"
+    "notification": "Notifications",
+    "you have {key} assessment": "You have {key} assessment",
+    "default": "{key}",
+    "you have {key} followers": "You have {key} followers"
 }
