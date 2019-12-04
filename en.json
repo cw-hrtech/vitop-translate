@@ -910,5 +910,13 @@
     "plan": "Plan",
     "new assessment": "New assessment",
     "notifications header": "Notifications",
-    "notification list": "Notification List"
+    "notification list": "Notification List",
+    "new follow": "New follow",
+    "reject job": "Your job was cancelled",
+    "plan expired": "Service pack expires",
+    "new plan": "Your package was created",
+    "new job applicant": "New job",
+    "new job company": "Your job was successfully posted",
+    "plan expire": "Service pack expires",
+    "notification": "Notifications"
 }
