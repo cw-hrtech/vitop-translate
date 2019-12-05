@@ -910,5 +910,8 @@
     "new plan": "Your package was created",
     "new job company": "Your job was successfully posted",
     "new job applicant": "New Job",
-    "recruitment job": "Recruitment list"
+    "recruitment job": "Recruitment list",
+    "job detail": "Job Detail",
+    "you have :key assessments": "You have {key} assessments",
+    "you have :key followers": "You have {key} followers"
 }
