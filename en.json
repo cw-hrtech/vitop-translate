@@ -911,5 +911,7 @@
     "new job company": "Your job was successfully posted",
     "new job applicant": "New Job",
     "recruitment job": "Recruitment list",
-    "job detail": "Job Detail"
+    "job detail": "Job Detail",
+    "plan expire": "Service pack expires",
+    "{key} started following": "{key} started following"
 }

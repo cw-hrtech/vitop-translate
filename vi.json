@@ -907,9 +907,11 @@
     "new plan": "Gói dịch vụ đã được tạo",
     "notification": "Thông báo",
     "plan expired": "Gói dịch vụ hết hạn",
-    "reject job": "Job đã bị hủy",
+    "reject job": "Công việc đã bị hủy",
     "new job applicant": "Công việc mới",
     "new job company": "Công việc đã được tạo thành công",
     "recruitment job": "Lịch sử tuyển dụng",
-    "job detail": "Chi tiết công việc"
+    "job detail": "Chi tiết công việc",
+    "plan expire": "Gói dịch vụ hết hạn",
+    "{key} started following": "{key} bắt đầu theo dõi"
 }
