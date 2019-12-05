@@ -906,7 +906,7 @@
     "plan 3 months": "3 months",
     "plan 6 months": "6 months",
     "plan 12 months": "12 months",
-    "expried date {day} days": "Expried date {day} days",
+    "expried date {day} days": "Expried date: {day} days",
     "unlimited": "Unlimited",
     "your plan": "Your plan",
     "please check again.": "Please check again."
