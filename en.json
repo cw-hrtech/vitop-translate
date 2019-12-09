@@ -909,5 +909,13 @@
     "expried date {day} days": "Expried date: {day} days",
     "unlimited": "Unlimited",
     "your plan": "Your plan",
-    "please check again.": "Please check again."
+    "please check again.": "Please check again.",
+    "footer_company_address": "Address: 1st Floor, 3D Building, No. 3, Duy Tan Street, Cau Giay District, Hanoi",
+    "footer_company_name": "Copyright © CO-WELL ASIA CO.,LTD.",
+    "footer_email": "Email: info@co-well.vn",
+    "footer_tax_code": "Business registration: 0106633789, Issued on: August 25, 2014",
+    "footer_tel": "Tel: (+84) 24 6297 3538",
+    "grievance redress mechanism": "Grievance redress mechanism",
+    "operation ecommerce": "Operation ecommerce",
+    "privacy policy": "Privacy policy"
 }
