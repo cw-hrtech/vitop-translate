@@ -922,5 +922,8 @@
     "plan": "Chi tiết gói",
     "follow list": "Danh sách theo dõi",
     "you have {key} assessments": "Bạn có {key} đánh giá",
-    "complete": "Hoàn thành"
+    "complete": "Hoàn thành",
+    "resend otp in {second}s": "Gửi lại mã xác thực sau {second}s",
+    "otp code": "Mã xác thực",
+    "send otp": "Gửi mã xác thực"
 }

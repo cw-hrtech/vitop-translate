@@ -922,5 +922,8 @@
     "follow list": "Follow list",
     "plan": "Plan",
     "you have {key} assessments": "You have {key} assessments",
-    "complete": "Complete"
+    "complete": "Completed",
+    "send otp": "Send OTP",
+    "resend otp in {second}s": "Resend OTP in {second}s",
+    "otp code": "OTP code"
 }
