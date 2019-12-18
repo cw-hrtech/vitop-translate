@@ -933,6 +933,7 @@
     "the activation code has been sent to the phone number :phone": "The activation code has been sent to the phone number :phone",
     "please try again in :seconds seconds": "Please try again in :seconds seconds",
     "otp code": "OTP code",
+    "tabs done": "Tabs done",
     "bank account": "Bank Account",
     "bank branch": "Bank Branch",
     "please input bank account": "Please input bank account",
@@ -954,5 +955,6 @@
     "work experience": "Work experience",
     "education background": "Academic background",
     "no transfer": "No transfer",
-    "by the time your friend registers, you only have {number} friends to complete 80% of the profile": "By the time your friend registers, you only have {number} friends to complete 80% of the profile"
+    "by the time your friend registers, you only have {number} friends to complete 80% of the profile": "By the time your friend registers, you only have {number} friends to complete 80% of the profile",
+    "phone numbers must have {min} numbers": "Phone numbers must have {min} numbers"
 }

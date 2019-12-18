@@ -954,5 +954,7 @@
     "transferred": "Đã chuyển khoản",
     "the activation code has been sent to the phone number :phone": "Mã kích hoạt đã được gửi đến số điện thoại :phone",
     "the phone number is not in the correct format": "Số điện thoại không đúng định dạng",
-    "work experience": "Kinh nghiệm làm việc"
+    "work experience": "Kinh nghiệm làm việc",
+    "phone numbers must have {min} numbers": "Số điện thoại phải có {min} số",
+    "tabs done": "Đữ liệu đã hoàn thành"
 }
