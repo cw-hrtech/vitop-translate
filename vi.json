@@ -956,5 +956,18 @@
     "the phone number is not in the correct format": "Số điện thoại không đúng định dạng",
     "work experience": "Kinh nghiệm làm việc",
     "phone numbers must have {min} numbers": "Số điện thoại phải có {min} số",
-    "tabs done": "Đữ liệu đã hoàn thành"
+    "tabs done": "Đữ liệu đã hoàn thành",
+    "admin": "Quản trị viên",
+    "all": "Tất cả",
+    "applied at: {time}": "Thời gian ứng tuyển job: {time}",
+    "candidates have not applied": "Ứng viên chưa nộp hồ sơ",
+    "history": "Lịch sử",
+    "interview address": "Địa điểm phỏng vấn",
+    "interview time": "Thời gian phỏng vấn",
+    "more information": "Thông tin mở rộng",
+    "updated resume at:": "Cập nhật hồ sơ lúc:",
+    "user": "Người dùng",
+    "you have applied for this position at: {time}": "Bạn đã ứng tuyển vào vị trí này tại: {time}",
+    "you have not signed a contract": "Bạn chưa ký hợp đồng",
+    "you have not signed a contract with us will be limited to some functions. sign a contract to gain full rights to use the system.": "Bạn chưa ký hợp đồng với chúng tôi, sẽ bị giới hạn ở một số chức năng. Ký hợp đồng để đạt được toàn quyền sử dụng hệ thống."
 }

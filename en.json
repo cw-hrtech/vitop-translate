@@ -956,5 +956,18 @@
     "education background": "Academic background",
     "no transfer": "No transfer",
     "by the time your friend registers, you only have {number} friends to complete 80% of the profile": "By the time your friend registers, you only have {number} friends to complete 80% of the profile",
-    "phone numbers must have {min} numbers": "Phone numbers must have {min} numbers"
+    "phone numbers must have {min} numbers": "Phone numbers must have {min} numbers",
+    "all": "All",
+    "user": "User",
+    "admin": "Admin",
+    "updated resume at:": "Updated resume at:",
+    "interview time": "Interview time",
+    "interview address": "Interview address",
+    "you have applied for this position at: {time}": "You have applied for this position at: {time}",
+    "candidates have not applied": "Candidates have not applied",
+    "applied at: {time}": "Applied at: {time}",
+    "you have not signed a contract": "You have not signed a contract",
+    "you have not signed a contract with us will be limited to some functions. sign a contract to gain full rights to use the system.": "You have not signed a contract with us will be limited to some functions. Sign a contract to gain full rights to use the system.",
+    "history": "History",
+    "more information": "More information"
 }
