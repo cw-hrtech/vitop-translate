@@ -495,7 +495,7 @@
     "start date": "Ngày bắt đầu",
     "start date is required": "Vui lòng nhập ngày bắt đầu",
     "start date must be a date": "Vui lòng nhập ngày bắt đầu đúng định dạng",
-    "status": "Trạng thái",
+    "status": "Trạng thái hồ sơ",
     "step": "Bước",
     "step has already": "Bước tuyển dụng đã tồn tại",
     "step name": "Tên bước tuyển dụng",
@@ -969,5 +969,8 @@
     "user": "Người dùng",
     "you have applied for this position at: {time}": "Bạn đã ứng tuyển vào vị trí này tại: {time}",
     "you have not signed a contract": "Bạn chưa ký hợp đồng",
-    "you have not signed a contract with us will be limited to some functions. sign a contract to gain full rights to use the system.": "Bạn chưa ký hợp đồng với chúng tôi, sẽ bị giới hạn ở một số chức năng. Ký hợp đồng để đạt được toàn quyền sử dụng hệ thống."
+    "you have not signed a contract with us will be limited to some functions. sign a contract to gain full rights to use the system.": "Tài khoản của bạn hiện đang bị hạn chế một số chức năng. Để trải nghiệm toàn bộ tiện ích của Vitop Career, nâng cấp tài khoản ngay hôm nay!",
+    "learn more": "Tìm hiểu thêm",
+    "no candidates matched your search. please try again by entering a search keyword.": "Không có ứng viên phù hợp với điều kiện tìm kiếm của bạn. Vui lòng thử lại bằng cách nhập từ khóa tìm kiếm.",
+    "please input your name": "Vui lòng nhập tên của bạn"
 }

@@ -260,7 +260,7 @@
     "list of candidates": "List of candidates",
     "evaluate candidates": "Evaluate candidates",
     "view": "View",
-    "status": "Status",
+    "status": "Status profile",
     "note": "Note",
     "note about applicant": "Feedback about applicant",
     "update": "Update",
@@ -967,7 +967,10 @@
     "candidates have not applied": "Candidates have not applied",
     "applied at: {time}": "Applied at: {time}",
     "you have not signed a contract": "You have not signed a contract",
-    "you have not signed a contract with us will be limited to some functions. sign a contract to gain full rights to use the system.": "You have not signed a contract with us will be limited to some functions. Sign a contract to gain full rights to use the system.",
+    "you have not signed a contract with us will be limited to some functions. sign a contract to gain full rights to use the system.": "Your account is currently restricted to some functions. To experience the full benefits of Vitop Career, upgrade your account today!",
     "history": "History",
-    "more information": "More information"
+    "more information": "More information",
+    "no candidates matched your search. please try again by entering a search keyword.": "No candidates matched your search. Please try again by entering a search keyword.",
+    "please input your name": "Please input your name",
+    "learn more": "Learn more"
 }
