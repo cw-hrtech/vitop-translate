@@ -984,7 +984,7 @@
     "interview": "Interview",
     "get the job": "Get the job",
     "fail": "Fail",
-    "convert salary gross net": "Convert salary gross net",
+    "convert salary gross net": "Convert salary Gross\/Net",
     "labor accident insurance - occupational disease insurance (0.5%)": "Labor accident insurance - Occupational disease insurance (0.5%)",
     "gross salary calculator to net \/ net to gross standard 2020": "Gross salary calculator to Net \/ Net to Gross standard 2020",
     "income": "Income",
@@ -1032,5 +1032,6 @@
     "interview information": "Interview Information",
     "fill in the information now": "Fill in the information now",
     "not enough information yet": "Not enough information yet",
-    "ready to find work": "Ready to find work"
+    "ready to find work": "Ready to find work",
+    "you have {key} interview": "You have {key} interview"
 }

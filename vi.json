@@ -552,7 +552,7 @@
     "update password success": "Cập nhật mật khẩu thành công!",
     "update process": "Cập nhật tiến trình",
     "update process job company success": "Cập nhật quy trình tuyển dụng thành công!",
-    "update profile": "Cập nhật hồ sơ",
+    "update profile": "Cập Nhật Hồ Sơ",
     "update profile company success": "Cập nhật hồ sơ công ty thành công!",
     "update status applicant apply job success": "Cập nhật trạng thái của Ứng viên ứng tuyển thành công!",
     "update success": "Cập nhật thành công",
@@ -975,7 +975,7 @@
     "please input your name": "Vui lòng nhập tên của bạn",
     "your changes have not been saved? do you want to switch tabs?": "Thay đổi của bạn chưa được lưu? Bạn có muốn chuyển tab không?",
     "check input": "Kiểm tra đầu vào",
-    "convert salary gross net": "Chuyển lương gross net",
+    "convert salary gross net": "Chuyển lương Gross\/Net",
     "dependent reduction based on dependents": "Giảm trừ cho người phụ thuộc",
     "deposit money": "Tiền cọc",
     "explain details": "Giải thích chi tiết",
@@ -1032,5 +1032,6 @@
     "up to vnd 5 million": "Đến 5 triệu VNĐ",
     "fill in the information now": "Điền thông tin ngay",
     "not enough information yet": "Chưa đủ thông tin",
-    "ready to find work": "Sẵn sàng tìm việc"
+    "ready to find work": "Sẵn sàng tìm việc",
+    "you have {key} interview": "Bạn có {key} cuộc phỏng vấn"
 }
