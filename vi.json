@@ -978,7 +978,7 @@
     "convert salary gross net": "Chuyển lương Gross\/Net",
     "dependent reduction based on dependents": "Giảm trừ cho người phụ thuộc",
     "deposit money": "Tiền cọc",
-    "explain details": "Giải thích chi tiết",
+    "explain details": "GIẢI THÍCH CHI TIẾT",
     "fail": "Trượt",
     "filter records": "Lọc hồ sơ",
     "get the job": "Quyết định tuyển dụng",
@@ -1009,7 +1009,7 @@
     "over vnd 52 million to vnd 80 million": "Trên 52 triệu VNĐ đến 80 triệu VNĐ",
     "over vnd 80 million": "Trên 80 triệu VNĐ",
     "personal income tax": "Thuế thu nhập cá nhân",
-    "personal income tax details": "Chi tiết thuế thu nhập cá nhân",
+    "personal income tax details": "CHI TIẾT THUẾ THU NHẬP CÁ NHÂN",
     "please enter salary": "Vui lòng nhập mức lương",
     "please input money": "Vui lòng nhập số tiền",
     "please input number of dependents": "Vui lòng nhập số người phụ thuộc",
@@ -1024,7 +1024,7 @@
     "social insurance (8%)": "Bảo hiểm xã hội (8%)",
     "tax": "Thuế",
     "taxable level": "Mức chịu thuế",
-    "the employer pays": "Người sử dụng lao động trả",
+    "the employer pays": "NGƯỜI SỬ DỤNG LAO ĐỘNG TRẢ",
     "times": "lần",
     "total cv": "Tổng số CV",
     "unemployment insurance (1%)": "Bảo hiểm thất nghiệp (1%)",
@@ -1033,5 +1033,6 @@
     "fill in the information now": "Điền thông tin ngay",
     "not enough information yet": "Chưa đủ thông tin",
     "ready to find work": "Sẵn sàng tìm việc",
-    "you have {key} interview": "Bạn có {key} cuộc phỏng vấn"
+    "you have {key} interview": "Bạn có {key} cuộc phỏng vấn",
+    "the results are for reference only": "Kết quả chỉ mang tính chất tham khảo"
 }

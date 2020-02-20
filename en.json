@@ -1003,7 +1003,7 @@
     "gross salary": "Gross salary",
     "personal income tax": "Personal income tax",
     "net salary": "Net salary",
-    "explain details": "Explain details",
+    "explain details": "EXPLAIN DETAILS",
     "social insurance (8%)": "Social insurance (8%)",
     "health insurance (1.5%)": "Health insurance (1.5%)",
     "unemployment insurance (1%)": "Unemployment insurance (1%)",
@@ -1011,7 +1011,7 @@
     "reduction of family circumstances": "Reduction of family circumstances",
     "dependent reduction based on dependents": "Dependent reduction based on dependents",
     "income tax": "Income tax",
-    "personal income tax details": "Personal income tax details",
+    "personal income tax details": "PERSONAL INCOME TAX DETAILS",
     "taxable level": "Taxable level",
     "tax": "Tax",
     "deposit money": "Deposit money",
@@ -1022,7 +1022,7 @@
     "over vnd 32 million to vnd 52 million": "Over VND 32 million to VND 52 million",
     "over vnd 52 million to vnd 80 million": "Over VND 52 million to VND 80 million",
     "over vnd 80 million": "Over VND 80 million",
-    "the employer pays": "The employer pays",
+    "the employer pays": "THE EMPLOYER PAYS",
     "please enter salary": "Please enter salary",
     "interview schedule": "Interview schedule",
     "times": "times",
@@ -1033,5 +1033,6 @@
     "fill in the information now": "Fill in the information now",
     "not enough information yet": "Not enough information yet",
     "ready to find work": "Ready to find work",
-    "you have {key} interview": "You have {key} interview"
+    "you have {key} interview": "You have {key} interview",
+    "the results are for reference only": "The results are for reference only"
 }
