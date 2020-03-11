@@ -1048,7 +1048,7 @@
     "notification_reject_cv_referral": "<strong>{user_name}<\/strong> vẫn chưa hoàn thành hồ sơ. Bạn hãy nhắc bạn bè của mình hoàn thiện hồ sơ để nhận ngay 50k tiền thưởng.",
     "notification_admin_edit_plan": "Gói dịch vụ <strong>{name}<\/strong> đã được điều chỉnh.",
     "notification_company_agree_contract": "Hợp đồng kí thành công. Hãy sử dụng Vitop Career ngay hôm nay.",
-    "notification_company_plan_expired": "Gói dịch vụ <strong>{name}<\/strong> hết hạn. Hãy gia hạn gói sử dụng ngay hôm nay",
+    "notification_company_plan_expired": "Gói dịch vụ <strong>{name}<\/strong> hết hạn. Hãy gia hạn hoặc chọn gói dịch vụ khác ngay hôm nay",
     "are you sure remove record?": "Bạn có chắc chắn xóa?",
     "create successfully": "Tạo thành công",
     "delete successfully": "Xóa thành công",
@@ -1056,5 +1056,6 @@
     "update successfully": "Cập nhật thành công",
     "suggest name": "Danh sách tìm kiếm",
     "suggest key": "Tên tìm kiếm",
-    "notification_interviews_schedule": "Hôm nay bạn có <strong>{total}<\/strong> lịch phỏng vấn. Hãy kết nối với ứng viên ngay."
+    "notification_interviews_schedule": "Hôm nay bạn có <strong>{total}<\/strong> lịch phỏng vấn. Hãy kết nối với ứng viên ngay.",
+    "notification_admin_deactive_plan": "Gói dịch vụ đã bị vô hiệu hóa."
 }

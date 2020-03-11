@@ -1053,8 +1053,9 @@
     "notification_reject_cv": "You have not completed your Profile. Please complete it now to help Companies find you for their jobs.",
     "notification_reject_cv_referral": "<strong>{user_name}<\/strong> has not complete his\/her profile yet. Remind them to complete the profile and ready to receive our commission for Referral.",
     "notification_approve_cv": "<strong>{user_name}<\/strong> was completed his\/her profile. Check your email to see the instruction and how you can get the commission from Vitop.vn",
-    "notification_company_plan_expired": "Your <strong>{name}<\/strong> package will be expired soon. Please",
+    "notification_company_plan_expired": "Your <strong>{name}<\/strong> package was expired. Please renew or choose another package to continue using our service.",
     "notification_admin_edit_plan": "<strong>{name}<\/strong> was adjusted.",
     "notification_company_agree_contract": "Contract was signed. Use Vitop Career now, to enjoy our best service.",
-    "notification_interviews_schedule": "You have <strong>{total}<\/strong> interviews today. Connect now."
+    "notification_interviews_schedule": "You have <strong>{total}<\/strong> interviews today. Connect now.",
+    "notification_admin_deactive_plan": "Your package was deactived by Administrator."
 }
