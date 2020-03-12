@@ -1057,5 +1057,6 @@
     "suggest name": "Danh sách tìm kiếm",
     "suggest key": "Tên tìm kiếm",
     "notification_interviews_schedule": "Hôm nay bạn có <strong>{total}<\/strong> lịch phỏng vấn. Hãy kết nối với ứng viên ngay.",
-    "notification_admin_deactive_plan": "Gói dịch vụ đã bị vô hiệu hóa."
+    "notification_admin_deactive_plan": "Gói dịch vụ đã bị vô hiệu hóa.",
+    "notification_interview_schedule_to_applicant": "Nhà tuyển dụng đã đặt lịch phỏng vấn với bạn vào lúc <strong>{hours}, ngày {date}<\/strong> tại <strong>{address}<\/strong>"
 }

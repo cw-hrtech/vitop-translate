@@ -1057,5 +1057,6 @@
     "notification_admin_edit_plan": "<strong>{name}<\/strong> was adjusted.",
     "notification_company_agree_contract": "Contract was signed. Use Vitop Career now, to enjoy our best service.",
     "notification_interviews_schedule": "You have <strong>{total}<\/strong> interviews today. Connect now.",
-    "notification_admin_deactive_plan": "Your package was deactived by Administrator."
+    "notification_admin_deactive_plan": "Your package was deactived by Administrator.",
+    "notification_interview_schedule_to_applicant": "The Recruited set an interview with you at <strong>{hours}, {date}, {address}<\/strong>"
 }
