@@ -1058,5 +1058,11 @@
     "suggest key": "Tên tìm kiếm",
     "notification_interviews_schedule": "Hôm nay bạn có <strong>{total}<\/strong> lịch phỏng vấn. Hãy kết nối với ứng viên ngay.",
     "notification_admin_deactive_plan": "Gói dịch vụ đã bị vô hiệu hóa.",
-    "notification_interview_schedule_to_applicant": "Nhà tuyển dụng đã đặt lịch phỏng vấn với bạn vào lúc <strong>{hours}, ngày {date}<\/strong> tại <strong>{address}<\/strong>"
+    "notification_interview_schedule_to_applicant": "Nhà tuyển dụng đã đặt lịch phỏng vấn với bạn vào lúc <strong>{hours}, ngày {date}<\/strong> tại <strong>{address}<\/strong>",
+    "notification_job_expired_before_3_day": "Công việc <strong>{position_name}<\/strong> còn 3 ngày sẽ hết hạn. Hãy gia hạn jobs ngay hôm nay",
+    "notification_pass_filter_profile": "Xin chúc mừng, hồ sơ của bạn đã được chấp nhận. Kết nối với nhà tuyển dụng ngay!",
+    "notification_send_offer": "Bạn đã nhận được lời đề nghị tuyển dụng từ <strong>{company_name}<\/strong>. Xem ngay!",
+    "notification_fail_profile": "Rất tiếc, hồ sơ của bạn không được chấp nhận. Bạn có thể cập nhật hồ sơ và ứng tuyển lại vào vị trí này.",
+    "notification_fail_interview": "Rất tiếc, cuộc phỏng vấn giữa bạn và <strong>{company_name}<\/strong> diễn ra không thành công. Cập nhật hồ sơ ngay để không bỏ lỡ những công việc tiềm năng khác!",
+    "notification_fail_test": "Rất tiếc, bạn đã không vượt qua bài kiểm tra của Nhà tuyển dụng. Hãy thử ứng tuyển 1 vị trí khác, chúc bạn may mắn!"
 }

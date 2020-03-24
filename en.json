@@ -1058,5 +1058,11 @@
     "notification_company_agree_contract": "Contract was signed. Use Vitop Career now, to enjoy our best service.",
     "notification_interviews_schedule": "You have <strong>{total}<\/strong> interviews today. Connect now.",
     "notification_admin_deactive_plan": "Your package was deactived by Administrator.",
-    "notification_interview_schedule_to_applicant": "The Recruited set an interview with you at <strong>{hours}, {date}, {address}<\/strong>"
+    "notification_interview_schedule_to_applicant": "The Recruited set an interview with you at <strong>{hours}, {date}, {address}<\/strong>",
+    "notification_job_expired_before_3_day": "Your job post <strong>{position_name}<\/strong> will be expired in 3 days. If you still have not found your employee, extend it now!",
+    "notification_pass_filter_profile": "Congratulation, your profile was accepted. Connect now!",
+    "notification_send_offer": "You have received an offer from <strong>{company_name}<\/strong>. See now!",
+    "notification_fail_profile": "Unfortunately, your profile was not accepted. You can update your profile and apply this position again.",
+    "notification_fail_test": "Unfortunately, you have failed the test with <strong>{company_name}<\/strong>. Try with another chances, good luck!",
+    "notification_fail_interview": "Unfortunately, your interview with <strong>{company_name}<\/strong> was not succesful. Update your profile now, another potential jobs are waiting for you!"
 }
