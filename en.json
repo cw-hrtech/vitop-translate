@@ -195,8 +195,8 @@
     "see more news": "See more news",
     "find a job": "Find a job",
     "jobs in {country}": "Jobs in {country}",
-    "top employers": "Top Employers",
-    "how it works": "How it works",
+    "top employers": "TOP EMPLOYERS",
+    "how it works": "HOW IT WORKS",
     "register account": "Register Account",
     "search dream job": "Search for desirable Job",
     "apply for job": "Apply For Job",
@@ -1124,7 +1124,7 @@
     "applicant_label_login_with_email": "Login <span class=\"text-orange\">Vitop-Career<\/span> with Email:",
     "or": "Or",
     "job is hiring": "Job is hiring",
-    "jobs for you": "Jobs for you",
+    "jobs for you": "JOBS FOR YOU",
     "we believe that just in the right place, everyone has the ability to shine.": "We believe that just in the right place, everyone has the ability to shine.",
     "filter by": "Filter by",
     "contract's type": "Contract's type",
@@ -1133,5 +1133,6 @@
     "see all": "See all",
     "remove": "Remove",
     "save job": "Save job",
-    "we believe that just in the right place, everyone has the ability to shine. with the mission of building a safe, diversity and effective high-level jobs portal to connect businesses directly to candidates, vitop - career was officially established. we hope that vitop - career will fulfill its mission as a bridge of bringing you to the jobs that suit you the best, thereby gradually building the steady path to your success.": "We believe that just in the right place, everyone has the ability to shine. With the mission of building a safe, diversity and effective High-level Jobs Portal to connect businesses directly to candidates, Vitop-Career was officially established. We hope that Vitop-Career will fulfill its mission as a bridge of bringing you to the jobs that suit you the best, thereby gradually building the steady path to your success."
+    "we believe that just in the right place, everyone has the ability to shine. with the mission of building a safe, diversity and effective high-level jobs portal to connect businesses directly to candidates, vitop - career was officially established. we hope that vitop - career will fulfill its mission as a bridge of bringing you to the jobs that suit you the best, thereby gradually building the steady path to your success.": "We believe that just in the right place, everyone has the ability to shine. With the mission of building a safe, diversity and effective High-level Jobs Portal to connect businesses directly to candidates, Vitop-Career was officially established. We hope that Vitop-Career will fulfill its mission as a bridge of bringing you to the jobs that suit you the best, thereby gradually building the steady path to your success.",
+    "company info": "Company info"
 }
