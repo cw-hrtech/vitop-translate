@@ -640,7 +640,7 @@
     "message inbox": "Hộp thư đến",
     "professor": "Giáo sư",
     "looking for a job": "Đang tìm việc",
-    ":label cannot be longer than :max characters": ":label không thể dài hơn :max kí tự 1",
+    ":label cannot be longer than :max characters": ":label không thể dài hơn :max kí tự",
     "{year} year and {month} month of actual work": "Đã có {year} năm và {month} tháng kinh nghiệm",
     "{year} year and {month} months of actual work": "Đã có {year} năm và {month} tháng kinh nghiệm",
     "{year} year of practical work": "Đã có {year} năm kinh nghiệm",
