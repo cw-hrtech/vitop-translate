@@ -1352,5 +1352,6 @@
     "collapse\/expand project": "Thu gọn\/Hiển thị dự án",
     "click here to review the candidate information": "Nhấn vào đây để xem thông tin ứng viên",
     "are you sure you want to block candidate information?": "Bạn có chắc chắn muốn chặn thông tin ứng viên?",
-    "add work location": "Thêm địa điểm"
+    "add work location": "Thêm địa điểm",
+    "salary converted to us dollars: {salary}": "Mức lương quy đổi qua tiền đô tương đương: <span class='text-primary'>{salary}<\/span>"
 }

@@ -1353,5 +1353,6 @@
     "list of suitable candidates": "List of suitable candidates",
     "you or someone has blocked this candidate information": "You or someone has blocked this candidate information",
     "click here to review the candidate information": "Click here to review the candidate information",
-    "are you sure you want to block candidate information?": "Are you sure you want to block candidate information?"
+    "are you sure you want to block candidate information?": "Are you sure you want to block candidate information?",
+    "salary converted to us dollars: {salary}": "Salary converted to dollars equivalent: <span class='text-primary'>{salary}<\/span>"
 }
