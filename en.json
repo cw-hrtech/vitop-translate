@@ -1438,5 +1438,6 @@
     "referral management": "Referral management",
     "nomination manager": "Nomination manager",
     "list collaborator": "List collaborator",
-    "you have been recommended for {job_name} by referrer: {user_name}": "You have been recommended for {job_name} by Referrer: {user_name}"
+    "you have been recommended for {job_name} by referrer: {user_name}": "You have been recommended for {job_name} by Referrer: {user_name}",
+    "register_with_referral_link_desc": "By signing up account on this link, you have agreed to let <strong>{referral}<\/strong> become your Referrer, also allow her (him) using your CV to apply for suitable jobs at Vitop-Career."
 }

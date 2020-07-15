@@ -1437,5 +1437,6 @@
     "list collaborator": "Danh sách cộng tác viên",
     "nomination manager": "Quản lý tiến cử",
     "referral management": "Quản lý giới thiệu",
-    "you have been recommended for {job_name} by referrer: {user_name}": "Bạn đã được tiến cử cho vị trí {job_name} bởi Người giới thiệu: {user_name}"
+    "you have been recommended for {job_name} by referrer: {user_name}": "Bạn đã được tiến cử cho vị trí {job_name} bởi Người giới thiệu: {user_name}",
+    "register_with_referral_link_desc": "Khi đăng ký tài khoản theo đường link này, bạn đã đồng ý để <strong>{referral}<\/strong> trở thành Người giới thiệu và cho phép họ tiến cử hồ sơ của bạn ứng tuyển cho những việc làm phù hợp tại Vitop-Career."
 }
