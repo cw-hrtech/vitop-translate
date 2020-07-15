@@ -1433,5 +1433,9 @@
     "you will become a referrer for this candidate when that person agrees to connect. we will send a confirmation email when the candidate connects successfully.": "Bạn sẽ trở thành Người giới thiệu cho Ứng viên này khi người đó đồng ý kết nối. Chúng tôi sẽ gửi email xác nhận khi Ứng viên kết nối thành công.",
     "you will not be able to edit the candidate profile once submitted": "Bạn sẽ không thể chỉnh sửa hồ sơ ứng viên sau khi gửi",
     "it is a long established fact that a reader will be distracted by the readable content:": "Bạn có thể nhận được mức hoa hồng hấp dẫn khi Ứng viên bạn giới thiệu nhận việc thành công. Sử dụng link để mời bạn bè ngay hôm nay!",
-    "you have blocked the company": "Bạn đã chặn doanh nghiệp"
+    "you have blocked the company": "Bạn đã chặn doanh nghiệp",
+    "list collaborator": "Danh sách cộng tác viên",
+    "nomination manager": "Quản lý tiến cử",
+    "referral management": "Quản lý giới thiệu",
+    "you have been recommended for {job_name} by referrer: {user_name}": "Bạn đã được tiến cử cho vị trí {job_name} bởi Người giới thiệu: {user_name}"
 }

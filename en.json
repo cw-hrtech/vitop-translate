@@ -1434,5 +1434,9 @@
     "please enter the candidate profile information before submitting, please ensure there is information of the basic information tab": "Please enter the candidate profile information before submitting, please ensure there is information of the basic information tab",
     "bookmark": "Bookmark",
     "copy link": "Copy link",
-    "you have blocked the company": "You have blocked the company"
+    "you have blocked the company": "You have blocked the company",
+    "referral management": "Referral management",
+    "nomination manager": "Nomination manager",
+    "list collaborator": "List collaborator",
+    "you have been recommended for {job_name} by referrer: {user_name}": "You have been recommended for {job_name} by Referrer: {user_name}"
 }
